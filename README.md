@@ -1,0 +1,2 @@
+# algogo
+Algorithms in Golang
